@@ -203,7 +203,7 @@ input[type="text"]:focus,textarea:focus {
 
 .view-button {
       display: inline-block;
-      padding: 6px 15px;
+	  padding:5px;
       font-size: 100%;
       font-weight: bold;
 	  margin-top:5px;
@@ -214,8 +214,7 @@ input[type="text"]:focus,textarea:focus {
       cursor: pointer;
       text-align: center;
       text-decoration: none;
-	  margin-left:84%;
-
+	  float: right;
     }
 
 .view-button:hover {
@@ -806,8 +805,7 @@ header .container {
   }
   
   .intro{
-
-	font-size:80%;
+	font-size:70%;
 }
   
   .links {
@@ -913,7 +911,6 @@ header .container {
   
   .view-button {
       display: inline-block;
-      padding: 6px 15px;
       font-size: 80%;
       font-weight: bold;
     }
