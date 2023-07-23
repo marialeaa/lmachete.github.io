@@ -652,7 +652,7 @@ header .container {
 
 .btitle {
   font-size: 1.4rem;
-  color: var(--darkOne);
+  color: black;
   text-transform: capitalize;
   line-height: 1.4;
 }
